@@ -1,0 +1,67 @@
+(function(){var loadHandler=window['sl_{BDD6F82A-D975-40FF-9859-385A95F529D0}'];loadHandler&&loadHandler(4, '<div id="spr0_a6cdabe"><div id="spr1_a6cdabe" class="kern slide"><img id="img33_a6cdabe" src="data/img1.png" width="960px" height="540px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_a6cdabe" class="kern slide"><div id="spr3_a6cdabe" style="left:66px;top:28.75px;"><div style="width:0px;"><span id="txt0_a6cdabe" class="relpos" data-width="700.691406" style="left:7.2px;top:-5.53px;">What if when we count the numbers in </span><span id="txt1_a6cdabe" class="relpos" style="left:7.195px;top:-5.53px;">1</span><span id="txt2_a6cdabe" class="relpos" data-width="27.779297" style="left:7.19px;top:-5.53px;">’s</span></div><div style="width:0px;"><span id="txt3_a6cdabe" data-width="560.269531" style="left:7.2px;top:41.99px;">place it becomes greater than 9</span></div></div><div id="spr4_a6cdabe" style="left:67.297px;top:156.081px;"><div id="spr5_a6cdabe" style="top:3.279px;"><img id="img0_a6cdabe" src="data/img5.png" width="27" height="57" alt="Icon\
+\
+Description automatically generated" style="left:0.234px;top:0.153px;"/></div><div id="spr6_a6cdabe" style="left:27.001px;top:3.279px;"><img id="img1_a6cdabe" src="data/img5.png" width="27" height="57" alt="Icon\
+\
+Description automatically generated" style="left:0.234px;top:0.153px;"/></div><div id="spr7_a6cdabe" style="left:77.428px;"><img id="img2_a6cdabe" src="data/img5.png" width="27" height="57" alt="Icon\
+\
+Description automatically generated" style="left:0.234px;top:0.153px;"/></div><div id="spr8_a6cdabe" style="left:53.329px;"><img id="img3_a6cdabe" src="data/img5.png" width="27" height="57" alt="Icon\
+\
+Description automatically generated" style="left:0.234px;top:0.153px;"/></div><div id="spr9_a6cdabe" style="left:100.853px;"><img id="img4_a6cdabe" src="data/img5.png" width="27" height="57" alt="Icon\
+\
+Description automatically generated" style="left:0.234px;top:0.153px;"/></div><div id="spr10_a6cdabe" style="left:127.855px;"><img id="img5_a6cdabe" src="data/img5.png" width="27" height="57" alt="Icon\
+\
+Description automatically generated" style="left:0.234px;top:0.153px;"/></div><div id="spr11_a6cdabe" style="left:178.281px;"><img id="img6_a6cdabe" src="data/img5.png" width="27" height="57" alt="Icon\
+\
+Description automatically generated" style="left:0.234px;top:0.153px;"/></div><div id="spr12_a6cdabe" style="left:154.182px;"><img id="img7_a6cdabe" src="data/img5.png" width="27" height="57" alt="Icon\
+\
+Description automatically generated" style="left:0.234px;top:0.153px;"/></div><div id="spr13_a6cdabe" style="left:204.868px;"><img id="img8_a6cdabe" src="data/img5.png" width="27" height="57" alt="Icon\
+\
+Description automatically generated" style="left:0.234px;top:0.153px;"/></div><div id="spr14_a6cdabe" style="left:231.869px;"><img id="img9_a6cdabe" src="data/img5.png" width="27" height="57" alt="Icon\
+\
+Description automatically generated" style="left:0.234px;top:0.153px;"/></div></div><div id="spr15_a6cdabe" style="left:722.402px;top:147.236px;"><div style="width:0px;"><span id="txt4_a6cdabe" style="left:7.2px;top:-1.966px;">2</span></div><div style="width:0px;"><span id="txt5_a6cdabe" data-width="19.894531" style="left:29.45px;top:-1.966px;">  </span></div><div style="width:0px;"><span id="txt6_a6cdabe" style="left:49.45px;top:-1.966px;">6</span></div></div><div id="spr16_a6cdabe" style="left:693.411px;top:248.941px;"><div style="width:0px;"><span id="txt7_a6cdabe" class="relpos" style="left:7.2px;top:-1.966px;">+</span><span id="txt8_a6cdabe" class="relpos" style="left:7.195px;top:-1.966px;"> </span></div><div style="width:0px;"><span id="txt9_a6cdabe" style="left:39.075px;top:-1.966px;">1</span></div><div style="width:0px;"><span id="txt10_a6cdabe" data-width="19.894531" style="left:61.325px;top:-1.966px;">  </span></div><div style="width:0px;"><span id="txt11_a6cdabe" style="left:81.325px;top:-1.966px;">7</span></div></div><div id="svg23_a6cdabe" style="left:683.991px;top:312.116px;"><svg width="139" height="6" viewBox="-3 -1.5 139 6"><g fill="#4472c4" stroke="none"><path stroke="#4472c4" stroke-width="3" stroke-linecap="butt" transform="translate(-686.99054,-313.616211)" d="M686.991,315.116 H819.27"/></g></svg></div><div id="spr17_a6cdabe" style="left:726.615px;top:323.831px;"><div style="width:0px;"><span id="txt12_a6cdabe" style="left:7.2px;top:-1.966px;">4</span></div><div style="width:0px;"><span id="txt13_a6cdabe" data-width="19.894531" style="left:29.45px;top:-1.966px;">  </span></div><div style="width:0px;"><span id="txt14_a6cdabe" style="left:49.45px;top:-1.966px;">3</span></div></div><div id="svg26_a6cdabe" style="left:48.049px;top:139.008px;"><svg width="332" height="88" viewBox="-1.5 -1.5 332 88"><ellipse fill="none" stroke="#2f528f" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="8" cx="164.256" cy="42.286" rx="163.756" ry="41.786"/></svg></div><div id="spr18_a6cdabe" style="left:79.217px;top:263.246px;"><div id="spr19_a6cdabe" style="top:3.28px;"><img id="img10_a6cdabe" src="data/img5.png" width="27" height="57" alt="Icon\
+\
+Description automatically generated" style="left:0.234px;top:0.153px;"/></div><div id="spr20_a6cdabe" style="left:27.001px;top:3.28px;"><img id="img11_a6cdabe" src="data/img5.png" width="27" height="57" alt="Icon\
+\
+Description automatically generated" style="left:0.234px;top:0.153px;"/></div><div id="spr21_a6cdabe" style="left:77.428px;"><img id="img12_a6cdabe" src="data/img5.png" width="27" height="57" alt="Icon\
+\
+Description automatically generated" style="left:0.234px;top:0.153px;"/></div><div id="spr22_a6cdabe" style="left:53.329px;"><img id="img13_a6cdabe" src="data/img5.png" width="27" height="57" alt="Icon\
+\
+Description automatically generated" style="left:0.234px;top:0.153px;"/></div><div id="spr23_a6cdabe" style="left:100.853px;"><img id="img14_a6cdabe" src="data/img5.png" width="27" height="57" alt="Icon\
+\
+Description automatically generated" style="left:0.234px;top:0.153px;"/></div><div id="spr24_a6cdabe" style="left:127.855px;"><img id="img15_a6cdabe" src="data/img5.png" width="27" height="57" alt="Icon\
+\
+Description automatically generated" style="left:0.234px;top:0.153px;"/></div><div id="spr25_a6cdabe" style="left:178.281px;"><img id="img16_a6cdabe" src="data/img5.png" width="27" height="57" alt="Icon\
+\
+Description automatically generated" style="left:0.234px;top:0.153px;"/></div><div id="spr26_a6cdabe" style="left:154.182px;"><img id="img17_a6cdabe" src="data/img5.png" width="27" height="57" alt="Icon\
+\
+Description automatically generated" style="left:0.234px;top:0.153px;"/></div><div id="spr27_a6cdabe" style="left:204.868px;"><img id="img18_a6cdabe" src="data/img5.png" width="27" height="57" alt="Icon\
+\
+Description automatically generated" style="left:0.234px;top:0.153px;"/></div><div id="spr28_a6cdabe" style="left:231.869px;"><img id="img19_a6cdabe" src="data/img5.png" width="27" height="57" alt="Icon\
+\
+Description automatically generated" style="left:0.234px;top:0.153px;"/></div></div><div id="svg27_a6cdabe" style="left:50.773px;top:248.664px;"><svg width="332" height="88" viewBox="-1.5 -1.5 332 88"><ellipse fill="none" stroke="#2f528f" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="8" cx="164.256" cy="42.286" rx="163.756" ry="41.786"/></svg></div><div id="spr29_a6cdabe" style="left:414.147px;top:156.081px;"><div id="spr30_a6cdabe" style="left:172.434px;"><img id="img20_a6cdabe" src="data/img6.png" width="38" height="57" alt="Icon\
+\
+Description automatically generated" style="left:-0.077px;top:0.153px;"/></div><div id="spr31_a6cdabe" style="left:139.23px;"><img id="img21_a6cdabe" src="data/img6.png" width="38" height="57" alt="Icon\
+\
+Description automatically generated" style="left:-0.077px;top:0.153px;"/></div><div id="spr32_a6cdabe" style="left:101.975px;"><img id="img22_a6cdabe" src="data/img6.png" width="38" height="57" alt="Icon\
+\
+Description automatically generated" style="left:-0.077px;top:0.153px;"/></div><div id="spr33_a6cdabe" style="left:68.771px;"><img id="img23_a6cdabe" src="data/img6.png" width="38" height="57" alt="Icon\
+\
+Description automatically generated" style="left:-0.077px;top:0.153px;"/></div><div id="spr34_a6cdabe" style="left:33.204px;"><img id="img24_a6cdabe" src="data/img6.png" width="38" height="57" alt="Icon\
+\
+Description automatically generated" style="left:-0.077px;top:0.153px;"/></div><div id="spr35_a6cdabe"><img id="img25_a6cdabe" src="data/img6.png" width="38" height="57" alt="Icon\
+\
+Description automatically generated" style="left:-0.077px;top:0.153px;"/></div></div><div id="spr36_a6cdabe" style="left:404.384px;top:260.443px;"><div id="spr37_a6cdabe" style="left:172.434px;"><img id="img26_a6cdabe" src="data/img6.png" width="38" height="57" alt="Icon\
+\
+Description automatically generated" style="left:-0.077px;top:0.153px;"/></div><div id="spr38_a6cdabe" style="left:139.23px;"><img id="img27_a6cdabe" src="data/img6.png" width="38" height="57" alt="Icon\
+\
+Description automatically generated" style="left:-0.077px;top:0.153px;"/></div><div id="spr39_a6cdabe" style="left:101.975px;"><img id="img28_a6cdabe" src="data/img6.png" width="38" height="57" alt="Icon\
+\
+Description automatically generated" style="left:-0.077px;top:0.153px;"/></div><div id="spr40_a6cdabe" style="left:68.77px;"><img id="img29_a6cdabe" src="data/img6.png" width="38" height="57" alt="Icon\
+\
+Description automatically generated" style="left:-0.077px;top:0.153px;"/></div><div id="spr41_a6cdabe" style="left:33.204px;"><img id="img30_a6cdabe" src="data/img6.png" width="38" height="57" alt="Icon\
+\
+Description automatically generated" style="left:-0.077px;top:0.153px;"/></div><div id="spr42_a6cdabe"><img id="img31_a6cdabe" src="data/img6.png" width="38" height="57" alt="Icon\
+\
+Description automatically generated" style="left:-0.077px;top:0.153px;"/></div><div id="spr43_a6cdabe" style="left:204.609px;top:1.64px;"><img id="img32_a6cdabe" src="data/img6.png" width="38" height="57" alt="Icon\
+\
+Description automatically generated" style="left:-0.077px;top:0.153px;"/></div></div><div id="spr44_a6cdabe" style="left:6.748px;top:382.005px;"><div style="width:0px;"><span id="txt15_a6cdabe" class="relpos" data-width="242.984375" style="left:7.2px;top:-0.448px;">For example, here </span><span id="txt16_a6cdabe" class="relpos" data-width="48.375000" style="left:7.195px;top:-0.448px;">6+7</span><span id="txt17_a6cdabe" class="relpos" data-width="30.406250" style="left:7.19px;top:-0.448px;"> = </span><span id="txt18_a6cdabe" class="relpos" style="left:7.185px;top:-0.448px;">1</span><span id="txt19_a6cdabe" class="relpos" style="left:7.18px;top:-0.448px;">3</span></div><div style="width:0px;"><span id="txt20_a6cdabe" class="relpos" data-width="89.500000" style="left:7.2px;top:37.952px;">So the </span><span id="txt21_a6cdabe" class="relpos" style="left:7.195px;top:37.952px;">3</span><span id="txt22_a6cdabe" class="relpos" data-width="106.234375" style="left:7.19px;top:37.952px;"> goes in </span><span id="txt23_a6cdabe" class="relpos" style="left:7.185px;top:37.952px;">1</span><span id="txt24_a6cdabe" class="relpos" data-width="174.781250" style="left:7.18px;top:37.952px;">’s place. The  </span><span id="txt25_a6cdabe" class="relpos" style="left:7.175px;top:37.952px;">1</span><span id="txt26_a6cdabe" class="relpos" data-width="241.453125" style="left:7.17px;top:37.952px;"> (called carry over)</span></div><div style="width:0px;"><span id="txt27_a6cdabe" class="relpos" data-width="390.109375" style="left:7.2px;top:76.352px;">gets added to the numbers in </span><span id="txt28_a6cdabe" class="relpos" data-width="32.437500" style="left:7.195px;top:76.352px;">10</span><span id="txt29_a6cdabe" class="relpos" data-width="96.671875" style="left:7.19px;top:76.352px;">’s place</span></div><div style="width:0px;"><span id="txt30_a6cdabe" class="relpos" data-width="258.796875" style="left:7.2px;top:114.752px;">That is now we add </span><span id="txt31_a6cdabe" class="relpos" data-width="80.531250" style="left:7.195px;top:114.752px;">1+2+1</span></div></div><div id="svg12_a6cdabe" style="left:369.629px;top:381.495px;"><svg width="378" height="142" viewBox="-6 -0.181 378 142"><g fill="none"><g transform="translate(0,0.0914)"><path stroke="#4472c4" stroke-width="3" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="8" d="M0,135.082 H365.582 V9.115 L365.649,8.022"/><g fill="#4472c4" stroke="none" transform="translate(361.137787,-0.091413)"><path transform="matrix(0.060942,-0.998141,0.998141,0.060942,4.444519,9.206439)" d="M9.132,0 L0.202,4.465 V-4.465 Z"/></g></g></g></svg></div><div id="svg22_a6cdabe" style="left:369.629px;top:381.07px;"><svg width="417" height="33" viewBox="-6 -0.147 417 33"><g fill="none"><g transform="translate(0,0.074371)"><path stroke="#4472c4" stroke-width="3" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="8" d="M0,26.572 H404.754 V9.121 L404.699,8.027"/><g fill="#4472c4" stroke="none" transform="translate(400.284058,-0.074379)"><path transform="matrix(-0.049586,-0.99877,0.99877,-0.049586,4.469635,9.195147)" d="M9.132,0 L0.202,4.465 V-4.465 Z"/></g></g></g></svg></div></div></div>');})();

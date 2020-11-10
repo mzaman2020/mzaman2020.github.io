@@ -1,0 +1,76 @@
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification 
+for details on configuring this project to bundle and minify static web assets. */
+body {
+    background-image: url('Background.jpg');
+}
+
+#child {
+    float: left;
+    margin: 50px;
+}
+
+.top_buffer {
+    padding-top: 10px;
+}
+.row {
+    /*padding-left: 20px;*/
+    padding-bottom: 10px;
+}
+a:link {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+}
+.bg-image {
+    /* Full height */
+    height: 20%;
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.img1 {
+    background-image: url("images/Footer.jpg");
+}
+
+/* Wrapping element */
+/* Set some basic padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.top-buffer {
+    padding-top: 10px;
+}
+/* Carousel */
+.carousel-caption p {
+    font-size: 20px;
+    line-height: 1.4;
+}
+
+/* Make .svg files in the carousel display properly in older browsers */
+.carousel-inner .item img[src$=".svg"] {
+    width: 100%;
+}
+
+/* QR code generator */
+#qrCode {
+    margin: 15px;
+}
+li {
+    list-style: none;
+}
+
+/* Hide/rearrange for smaller screens */
+@media screen and (max-width: 767px) {
+    /* Hide captions */
+    .carousel-caption {
+        display: none;
+    }
+}
+@media print {
+    a[href]:after {
+        display: none;
+        visibility: hidden;
+    }
+}
